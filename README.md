@@ -73,6 +73,14 @@ This tool is for educational purposes only and should only be used on systems yo
 
 - MorphyKutay
 
+
+ties.
+
+## 📸 Screenshots
+
+![JoomlScan POC](poc.png)
+
+
 ## 📝 License
 
 This project is licensed under the GNU General Public License v3.0.  
