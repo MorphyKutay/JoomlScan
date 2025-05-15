@@ -37,7 +37,6 @@ def main():
     
     # Argümanları kullan
     target_url = args.url
-    output_file = args.output
     
     if target_url:
         # Admin panelini ara
